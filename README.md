@@ -20,13 +20,11 @@ We provide code, configuration files, and resources to reproduce all experiments
     │   │
     │   ├── evaluation.py  <- Entry-point for the CLI
     │   │
-    │   ├── models         <- Package to train models and then use trained models to make
+    │   ├── models         <- Package to load models to make
     │   │                     predictions
     │   └── ...            <- ...
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── config             <- Config files to associate models and benchmarks to evaluate.
     |
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
