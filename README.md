@@ -85,7 +85,7 @@ To run model evaluation under specific robustness settings.
 If you use this codebase or find our study useful in your research, please cite our paper:
 
 ```
-@inproceedings{yourlastname2025granularity,
+@inproceedings{hendriksen2025granularity,
   title     = {Benchmark Granularity and Model Robustness for Image-Text Retrieval: A Reproducibility Study},
   author    = {Mariya Hendriksen, Shuo Zhang, Ridho Reinanda, Mohamed Yahya, Edgar Meij and Maarten de Rijke},
   booktitle = {Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
