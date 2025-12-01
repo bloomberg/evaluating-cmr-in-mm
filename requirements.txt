@@ -34,7 +34,7 @@ exceptiongroup==1.2.2
 executing==2.2.0
 filelock==3.18.0
 flake8==7.2.0
-fonttools==4.57.0
+fonttools==4.61.0
 frozenlist==1.6.0
 fsspec==2025.3.2
 google-auth==2.39.0
