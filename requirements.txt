@@ -32,7 +32,7 @@ docutils==0.21.2
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl#sha256=83276fc78a70045627144786b52e1f2728ad5e29e5e43916ec37ea9c26a11212
 exceptiongroup==1.2.2
 executing==2.2.0
-filelock==3.18.0
+filelock==3.20.1
 flake8==7.2.0
 fonttools==4.57.0
 frozenlist==1.6.0
